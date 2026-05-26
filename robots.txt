@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.oliverconfeitaria.com.br/sitemap.xml
